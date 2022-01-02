@@ -1,4 +1,5 @@
 # ChessGame 2018_CS4 💿 2017-2018
+# WORKING !! , NOT 100% Perfect , [Just a proof of Concept]
 # 💿 Coded By : SaherBlueEagle ▶️
 This is Full GAME Project Including GUI for CS4 GUC , 
 Full Project By SaherBlueEagle
